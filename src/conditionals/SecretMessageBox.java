@@ -17,7 +17,7 @@ import javax.swing.JOptionPane;
 public class SecretMessageBox {
 
 	// 0. Make a main method and put steps 1-5 inside it
-	
+
 	// 1. Set the passcode in a String variable
 	
 	// 2. Using a pop-up, ask for a secret message and store it in a variable
